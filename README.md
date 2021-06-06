@@ -17,4 +17,7 @@ Customer Review Analysis is a prototype open source platform to turn the custome
 1. download dash.zip file
 2. follow the deploymeny guidance document
 
+## License
+MIT
+
 
