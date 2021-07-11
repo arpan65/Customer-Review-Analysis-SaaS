@@ -16,7 +16,8 @@ Customer Review Analysis is a prototype open source platform to turn the custome
 ## How to Reproduce - AWS
 1. download dash.zip file
 2. follow the deploymeny guidance document
-
+## Blog
+https://www.analyticsvidhya.com/blog/2021/06/develop-a-customer-review-analysis-platform-from-scratch/
 ## License
 MIT
 
